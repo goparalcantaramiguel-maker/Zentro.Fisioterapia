@@ -1,0 +1,7 @@
+{
+  "name": "Zentro Fisioterapia - Especialistas en Dolor y Movimiento",
+  "description": "Clínica de fisioterapia avanzada especializada en dolor persistente, recuperación funcional y ejercicio terapéutico. Enfoque biopsicosocial para recuperar la confianza en tu cuerpo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
